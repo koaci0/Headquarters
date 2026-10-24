@@ -1,3 +1,5 @@
+⛀ = `0`
+
 ### 📝 24/10/26 SATURDAY
 
 - [x] Begin
@@ -25,5 +27,5 @@
 
 - [ ] Fix everyones scripts by midnight tonight
 
-⛀ = `0`
+
 
