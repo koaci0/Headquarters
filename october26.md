@@ -5,10 +5,10 @@
 ### Temporary Missions
 
 - [ ] Finalize system
-- [ ] Draft interface
+- [x] Draft interface
 - [ ] Organize pinned into respective categories | AOBA category etc.
 - [ ] buy dictionary (Arabic)
-- [ ] finish compartmentalization
+- [x] finish compartmentalization
 
 ### Hobs Missions
 
