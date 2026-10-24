@@ -4,9 +4,9 @@
 
 ### Temporary Missions
 
-- [ ] Finalize system
+- [x] Finalize system 1.0
 - [x] Draft interface
-- [ ] Organize pinned into respective categories | AOBA category etc.
+- [x] Organize pinned into respective categories | AOBA category etc.
 - [ ] buy dictionary (Arabic)
 - [x] finish compartmentalization
 
