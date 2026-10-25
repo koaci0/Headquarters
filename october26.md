@@ -53,3 +53,36 @@
 
 ### Temporary Missions
 - [x] finish timetable
+
+---
+
+### 📝 26/10/26 MONDAY
+
+### Temporary Missions
+- [ ] Insert interface
+
+### School
+
+- [ ] Fix everyones scripts by midnight tonight
+- [ ] Study bab 3 MCFC
+- [ ] Study bab 4 MCFC
+- [ ] Do Mock Test 2 MCFC
+
+### Pokepsi
+- [ ] Quran Journaling
+- [ ] Hifdth list
+- [ ] 
+
+### Habits
+- [ ] Surah Al Baqarah 1-10
+- [ ] Surah Al Waqiah 1-10 ( shield from poverty )
+- [ ] Surah Al Falaq 1-10 ( Evil eye )
+- [ ] Surah Ar Rahman 1-10 ( Faith & Beauty )
+- [ ] Surah An Nas ( Evil thoughts & whispers )
+
+### Hobs Missions
+- [ ] Book
+- [ ] Arabic
+      
+### Side Missions
+- [ ] Gym
