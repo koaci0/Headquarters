@@ -85,3 +85,9 @@
       
 ### Side Missions
 - [ ] Gym
+
+### Main Missions
+- [ ] podcast [ How Small Wins Compound Into Greatness - Alex Hormozi (4K) ]
+
+
+
