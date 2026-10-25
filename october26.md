@@ -71,7 +71,6 @@
 ### Pokepsi
 - [ ] Quran Journaling
 - [ ] Hifdth list
-- [ ] 
 
 ### Habits
 - [ ] Surah Al Baqarah 1-10
