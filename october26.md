@@ -89,6 +89,8 @@
 ### Main Missions
 - [ ] podcast [ How Small Wins Compound Into Greatness - Alex Hormozi (4K) ]
 
+---
+
 ### 📝 26/10/26 MONDAY
 
 ### Temporary Missions
