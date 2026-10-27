@@ -96,7 +96,7 @@
 
 ### School
 
-- [ ] Fix everyones scripts by midnight tonight
+- [x] Fix everyones scripts by midnight tonight
 - [ ] Study bab 3 MCFC
 - [ ] Study bab 4 MCFC
 - [ ] Do Mock Test 2 MCFC
@@ -106,4 +106,4 @@
 - [ ] Arabic
       
 ### Side Missions
-- [x] Gym
+- [ ] Gym
