@@ -89,5 +89,21 @@
 ### Main Missions
 - [ ] podcast [ How Small Wins Compound Into Greatness - Alex Hormozi (4K) ]
 
+### 📝 26/10/26 MONDAY
 
+### Temporary Missions
+- [ ] Insert interface
 
+### School
+
+- [ ] Fix everyones scripts by midnight tonight
+- [ ] Study bab 3 MCFC
+- [ ] Study bab 4 MCFC
+- [ ] Do Mock Test 2 MCFC
+
+### Hobs Missions
+- [ ] Book
+- [ ] Arabic
+      
+### Side Missions
+- [x] Gym
