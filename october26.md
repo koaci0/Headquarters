@@ -91,7 +91,7 @@
 
 ---
 
-### 📝 26/10/26 MONDAY
+### 📝 26/10/26 TUESDAY
 
 ### Temporary Missions
 - [ ] Insert interface
@@ -109,3 +109,17 @@
       
 ### Side Missions
 - [ ] Gym
+
+### 📝 26/10/26 THURSDAY
+
+### Temporary Missions
+- [ ] Insert interface
+
+### School
+
+### Hobs Missions
+- [ ] Book
+- [ ] Arabic
+      
+### Side Missions
+- [x] Gym
