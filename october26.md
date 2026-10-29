@@ -110,6 +110,8 @@
 ### Side Missions
 - [ ] Gym
 
+---
+
 ### 📝 26/10/26 THURSDAY
 
 ### Temporary Missions
