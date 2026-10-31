@@ -125,3 +125,17 @@
       
 ### Side Missions
 - [x] Gym
+
+### 📝 31/10/26 SATURDAY
+
+### Temporary Missions
+- [ ] Insert interface
+
+### School
+
+### Hobs Missions
+- [ ] Book
+- [ ] Arabic
+      
+### Side Missions
+- [x] Gym
